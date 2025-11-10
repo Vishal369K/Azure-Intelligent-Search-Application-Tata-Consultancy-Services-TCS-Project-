@@ -1,0 +1,311 @@
+[
+  {
+    "policy_name": "Bring Your Own Device Policy",
+    "category": "General Policy",
+    "summary": "This document defines the security rules and controls required when working with not organization-owned devices inside the <Company> office/network infrastructure. It serves as a central policy document with which all employees and contractors must be familiar and defines actions that all users must follow. The purpose of this Bring Your Own Device Policy is to provide a comprehensive framework...",
+    "highlights": [
+      "Encryption and data protection",
+      "Annual ISMS review and approval",
+      "Authentication and password standards",
+      "Confidential data handling",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "This document defines the security rules and controls required when working with not organization-owned devices inside the <Company> office/network infrastructure. It serves as a central policy document with which all employees and contractors must be familiar and defines actions that all users must follow. The purpose of this Bring Your Own Device Policy is to provide a comprehensive framework...",
+      "scope": "This policy applies to all employees, users, and third parties who access or use <Company> internal infrastructure. Resources under the scope of this policy include all not company-owned devices entering the territory of the <Company> office or connecting to the <Company> internal network infrastructure. Policy Laptops <Company> Guest’s network is provided for connections from non-company-owned...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Business Continuity Disaster Recovery Plan",
+    "category": "General Policy",
+    "summary": "This document provides a framework to counteract interruptions to critical business activities and protect essential processes of business from the adverse effects of business disruptions. Scope The scope of this document includes all users who have access to company-owned or company-provided computers or require access to the corporate network and systems. This policy and plan applies to...",
+    "highlights": [
+      "Annual ISMS review and approval",
+      "Backup and recovery controls",
+      "Incident response and escalation",
+      "Cryptographic key management procedures",
+      "Access control and authorization",
+      "Employee awareness and security training",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "This document provides a framework to counteract interruptions to critical business activities and protect essential processes of business from the adverse effects of business disruptions. Scope The scope of this document includes all users who have access to company-owned or company-provided computers or require access to the corporate network and systems. This policy and plan applies to...",
+      "scope": "The scope of this document includes all users who have access to company-owned or company-provided computers or require access to the corporate network and systems. This policy and plan applies to employees and guests, contractors, and anyone needing access to the corporate systems to continuously serve our customers. The scope of this plan includes business continuity, disaster recovery,...",
+      "responsibilities": "In case of a disaster, the committee is gathered to discuss the future actions needed for the system recovery. All key stakeholders are informed about the <Company> systems’ current state during the recovery from a disaster. The Business Continuity Committee includes key members from departments across the organization.",
+      "policy": "will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for reading the full text.",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Change Management Policy",
+    "category": "General Policy",
+    "summary": "The purpose of the Change Management Policy is to manage changes to <Company> information systems, assets, and resources rationally and predictably so that all related stakeholders can plan accordingly. Applying a repeatable process to control change will improve changes' effectiveness and cross-functional communication. Scope This policy applies to all <Company> employees, contractors, and third...",
+    "highlights": [
+      "Encryption and data protection",
+      "Annual ISMS review and approval",
+      "Vulnerability management and risk mitigation",
+      "Access control and authorization",
+      "Backup and recovery controls",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of the Change Management Policy is to manage changes to <Company> information systems, assets, and resources rationally and predictably so that all related stakeholders can plan accordingly. Applying a repeatable process to control change will improve changes' effectiveness and cross-functional communication. Scope This policy applies to all <Company> employees, contractors, and third...",
+      "scope": "This policy applies to all <Company> employees, contractors, and third parties who access internal information and business processes. Policy Configuration changes will be reviewed, and approval of changes will be considered based on an analysis performed for any security and privacy impacts. Only approved changes will be implemented in the system.",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Clear Desk And Screen Policy",
+    "category": "General Policy",
+    "summary": "The purpose of this policy is to establish the minimum requirements for maintaining clean desks and clear screens and to ensure that where there is any confidential, restricted, or sensitive Information that is locked away and is out of sight. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company>...",
+    "highlights": [
+      "Annual ISMS review and approval",
+      "Authentication and password standards",
+      "Cryptographic key management procedures",
+      "Confidential data handling",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this policy is to establish the minimum requirements for maintaining clean desks and clear screens and to ensure that where there is any confidential, restricted, or sensitive Information that is locked away and is out of sight. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company>...",
+      "scope": "This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy Clear Desk Policy Hard copy documents containing any personal data or confidential, restricted, or sensitive information should only be stored safely. Examples are contracts with clients,...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Data Retention And Destruction Policy",
+    "category": "General Policy",
+    "summary": "The purpose of this document is to ensure the company’s guidelines for retaining different types of data. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy Reasons for Data Retention Litigation Regulatory compliance requirements Data...",
+    "highlights": [
+      "Confidential data handling",
+      "Annual ISMS review and approval",
+      "Incident response and escalation",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this document is to ensure the company’s guidelines for retaining different types of data. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy Reasons for Data Retention Litigation Regulatory compliance requirements Data...",
+      "scope": "This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy Reasons for Data Retention Litigation Regulatory compliance requirements Data owner requirement Security incident investigation Retention Requirements Operational data can be retained for 1...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "and Destruction Policy Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not...",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Encryption Policy",
+    "category": "General Policy",
+    "summary": "The purpose of this policy is to outline the <Company> standards for the use of encryption technology so that it is used securely and managed appropriately. Scope This policy covers all data stored on or transmitted across corporate systems. Policy Encryption Strategy The following represents the <Company> encryption strategy: If disk encryption is used, logical access should be managed...",
+    "highlights": [
+      "Encryption and data protection",
+      "Confidential data handling",
+      "Annual ISMS review and approval",
+      "Cryptographic key management procedures",
+      "Access control and authorization",
+      "Backup and recovery controls",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this policy is to outline the <Company> standards for the use of encryption technology so that it is used securely and managed appropriately. Scope This policy covers all data stored on or transmitted across corporate systems. Policy Encryption Strategy The following represents the <Company> encryption strategy: If disk encryption is used, logical access should be managed...",
+      "scope": "This policy covers all data stored on or transmitted across corporate systems. Policy Encryption Strategy The following represents the <Company> encryption strategy: If disk encryption is used, logical access should be managed independently of native operating system access control mechanisms. All information must be encrypted by communication protocols such as HTTPS/TLS1.2 (or higher) when...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Human Resource Security Policy",
+    "category": "Information Security",
+    "summary": "The primary purpose of the Human Resource Security Policy is to ensure that <Company> employees and contractors understand their responsibilities and are suitable for the roles for which they are considered, ensure that <Company> employees and contracts are aware of and fulfill their information security responsibilities, and protect other <Company> interests as part of the process of changing or...",
+    "highlights": [
+      "Security awareness and employee training",
+      "Annual ISMS review and approval",
+      "Confidential data handling",
+      "Access control and authorization",
+      "Employee awareness and security training",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The primary purpose of the Human Resource Security Policy is to ensure that <Company> employees and contractors understand their responsibilities and are suitable for the roles for which they are considered, ensure that <Company> employees and contracts are aware of and fulfill their information security responsibilities, and protect other <Company> interests as part of the process of changing or...",
+      "scope": "The policy statements apply to all <Company> resources at all levels of sensitivity, including: All full-time, part-time, and temporary staff. Contractors, sub-contractors, and consultants are working for or on behalf of <Company>. All other individuals and groups who have been granted access to <Company> IT systems and information.",
+      "responsibilities": "and are suitable for the roles for which they are considered, ensure that <Company> employees and contracts are aware of and fulfill their information security responsibilities, and protect other <Company> interests as part of the process of changing or terminating employment. Scope The policy statements apply to all <Company> resources at all levels of sensitivity, including: All full-time,...",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Incident Response Plan",
+    "category": "General Policy",
+    "summary": "The purpose of this plan is to ensure effective and consistent management of security incidents involving <Company> and its clients’ information and information technology resources. Scope This plan applies to all company employees responsible for Security Incident Response. Definitions Incident: A security event that has the potential to impact the confidentiality, integrity, or availability of...",
+    "highlights": [
+      "Security awareness and employee training",
+      "Annual ISMS review and approval",
+      "Patch management and vulnerability remediation",
+      "Vulnerability management and risk mitigation",
+      "Incident response and escalation",
+      "Authentication and password standards",
+      "Confidential data handling",
+      "Backup and recovery controls",
+      "Employee awareness and security training",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this plan is to ensure effective and consistent management of security incidents involving <Company> and its clients’ information and information technology resources. Scope This plan applies to all company employees responsible for Security Incident Response. Definitions Incident: A security event that has the potential to impact the confidentiality, integrity, or availability of...",
+      "scope": "This plan applies to all company employees responsible for Security Incident Response. Definitions Incident: A security event that has the potential to impact the confidentiality, integrity, or availability of an organization's assets or operations. Incident Response (IR): The steps used to prepare for, detect, contain, and recover from an Incident, aimed to quickly minimize incident impact,...",
+      "responsibilities": "Incident Response Team: Incident Response Officer is the Incident Response specialist that has ultimate accountability for the actions of the IR Team and IR function. This person should be an executive-level employee. Incident Response Officer is responsible for: reporting to the CEO and is a peer of other C-level executives; an annual summary of the incidents for the calendar year; reviewing any...",
+      "policy": "will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for reading the full text.",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Information Security Policy",
+    "category": "Information Security",
+    "summary": "This document defines the technical controls and security configurations required to ensure the integrity and availability of the data environment at <Company>. It serves as a central policy document with which all employees and contractors must be familiar and defines actions that all users must follow. The purpose of this Information Security Policy is to provide a comprehensive framework for:...",
+    "highlights": [
+      "Security awareness and employee training",
+      "Annual ISMS review and approval",
+      "Confidential data handling",
+      "Access control and authorization",
+      "Employee awareness and security training",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "This document defines the technical controls and security configurations required to ensure the integrity and availability of the data environment at <Company>. It serves as a central policy document with which all employees and contractors must be familiar and defines actions that all users must follow. The purpose of this Information Security Policy is to provide a comprehensive framework for:...",
+      "scope": "This policy applies to all employees, users, and third parties who access or use <Company> information assets, regardless of physical location. IT resources include all company-owned, licensed, leased, or managed hardware and software and use the <Company> network via a physical or wireless connection, regardless of the ownership of the computing device connected to the network. Policy The...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Log Management Policy",
+    "category": "General Policy",
+    "summary": "The purpose of this policy is to address the regulatory requirements for auditing, logging, and monitoring activities. Scope This policy applies to all employees, users, and third parties who access or use <Company> information assets, regardless of physical location. IT resources include all company-owned, licensed, leased, or managed hardware and software and use the <Company> network via a...",
+    "highlights": [
+      "Incident response and escalation",
+      "Annual ISMS review and approval",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this policy is to address the regulatory requirements for auditing, logging, and monitoring activities. Scope This policy applies to all employees, users, and third parties who access or use <Company> information assets, regardless of physical location. IT resources include all company-owned, licensed, leased, or managed hardware and software and use the <Company> network via a...",
+      "scope": "This policy applies to all employees, users, and third parties who access or use <Company> information assets, regardless of physical location. IT resources include all company-owned, licensed, leased, or managed hardware and software and use the <Company> network via a physical or wireless connection, regardless of the ownership of the computing device connected to the network. Responsibilities...",
+      "responsibilities": "ISMS Manager: Manage logging and monitoring process. Create documentation. SOC Analyst: Analyze and proceed with alerts, events, and vulnerabilities mentioned in security systems; Prepare a report on critical information security incidents; Escalate true positive events to the Incident Management team.",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status, and at yearly intervals thereafter. The version control table will show the published update date and provide a thumbnail of the major change. CAUTION: the thumbnail is not intended to summarize the change and not a substitute for reading the full...",
+      "retention": "period and storage All audit logs must be retained for the defined time. The retention time for log storage is 90 days, but logs are also deleted when there are 512 gigabytes for the particular index (log source). Protection of log information Logs must be read-only by authorized people.",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Network Security Policy",
+    "category": "Information Security",
+    "summary": "The purpose of this policy is to establish the technical guidelines for network security and to communicate the controls necessary for a secure network infrastructure. The network security policy will provide the practical mechanisms to support the company's comprehensive set of security policies. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries,...",
+    "highlights": [
+      "Annual ISMS review and approval",
+      "Patch management and vulnerability remediation",
+      "Vulnerability management and risk mitigation",
+      "Authentication and password standards",
+      "Access control and authorization",
+      "Encryption and data protection",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of this policy is to establish the technical guidelines for network security and to communicate the controls necessary for a secure network infrastructure. The network security policy will provide the practical mechanisms to support the company's comprehensive set of security policies. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries,...",
+      "scope": "This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy Network Device Configuration Authentication on Network devices must be configured according to <Company> Password Management Policy. Special considerations are to be made due to the nature of...",
+      "responsibilities": "",
+      "policy": "Version Control Table Table of Contents Purpose The purpose of this policy is to establish the technical guidelines for network security and to communicate the controls necessary for a secure network infrastructure. The network security policy will provide the practical mechanisms to support the company's comprehensive set of security policies. Scope This policy applies to all employees,...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Password Management Policy",
+    "category": "General Policy",
+    "summary": "The purpose of these guidelines is to provide best practices for creating strong passwords and provide reliable protection of passwords. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy The organization mandates that users adhere to the...",
+    "highlights": [
+      "Annual ISMS review and approval",
+      "Authentication and password standards",
+      "Confidential data handling",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "The purpose of these guidelines is to provide best practices for creating strong passwords and provide reliable protection of passwords. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy The organization mandates that users adhere to the...",
+      "scope": "This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Policy The organization mandates that users adhere to the following guidelines on password construction. This policy is partially based on the National Institute of Standards and Technology (NIST)...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Patch Management Policy",
+    "category": "General Policy",
+    "summary": "This policy is provided to define the requirements for identifying, acquiring, installing, and verifying patches for products and systems. Patches correct security and functionality problems in software and firmware. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information...",
+    "highlights": [
+      "Security awareness and employee training",
+      "Annual ISMS review and approval",
+      "Patch management and vulnerability remediation",
+      "Vulnerability management and risk mitigation",
+      "Access control and authorization",
+      "Defined roles and responsibilities"
+    ],
+    "sections": {
+      "purpose": "This policy is provided to define the requirements for identifying, acquiring, installing, and verifying patches for products and systems. Patches correct security and functionality problems in software and firmware. Scope This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information...",
+      "scope": "This policy applies to all employees, contractors, subcontractors, consultants, temporaries, guests, and any third party that uses <Company> information assets or information resources and services. Responsibilities Asset Owners​: Responsible for implementing patch management controls in the company. ISMS Manager: Create documentation.",
+      "responsibilities": "Asset Owners​: Responsible for implementing patch management controls in the company. ISMS Manager: Create documentation. Monitor the quality of the procedures’ execution.",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  },
+  {
+    "policy_name": "Physical Media Transfer Policy",
+    "category": "General Policy",
+    "summary": "The purpose of this policy is to define our secure standard of courier company selection and the fast process of media delivery to our locations (offices), customers, and vendors to protect media containing information against unauthorized access, misuse, or corruption during transportation. Scope The scope of this policy includes all users who have access to company-owned or company-provided...",
+    "highlights": [
+      "Defined roles and responsibilities",
+      "Annual ISMS review and approval",
+      "Access control and authorization",
+      "Patch management and vulnerability remediation"
+    ],
+    "sections": {
+      "purpose": "The purpose of this policy is to define our secure standard of courier company selection and the fast process of media delivery to our locations (offices), customers, and vendors to protect media containing information against unauthorized access, misuse, or corruption during transportation. Scope The scope of this policy includes all users who have access to company-owned or company-provided...",
+      "scope": "The scope of this policy includes all users who have access to company-owned or company-provided computers or require access to the corporate network and systems. This policy applies to employees and guests, contractors, and anyone needing access to the corporate systems. Policy To assure information security during physical media transfer the company has selected dedicated couriers and shipping...",
+      "responsibilities": "",
+      "policy": "Version Control Table This policy will be reviewed for continued completeness, relevance, and accuracy within 1 year of being granted “final” status and at yearly intervals after that. The version control table will show the published update date and provide a thumbnail of the significant change. CAUTION: the thumbnail is not intended to summarize the difference and is not a substitute for...",
+      "retention": "",
+      "disciplinary_actions": ""
+    },
+    "responsible_hr": {}
+  }
+]
